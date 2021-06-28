@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Pietrzak Mariusz
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 pietrzakmariusz/pietrzakmariusz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
